@@ -1,2 +1,2 @@
 # odin-recipes
-Hello, my name is Fernando and this will be my first odin project. My current project will involve creating a small recipe website in which I will demonstrate some of the skills I have learned thus far, such as, setting up my doctypes, creating paragraphs, adding headings(of diffrent sizes), making links, and creating lists(unordered and ordered).
+Hello, my name is Fernando and this will be my first odin project. My current project will involve creating a small recipe website in which I will demonstrate some of the skills I have learned thus far, such as, setting up my doctypes, creating paragraphs, adding headings(of different sizes), making links, and creating lists(unordered and ordered).
